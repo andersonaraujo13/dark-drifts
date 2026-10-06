@@ -1,0 +1,10 @@
+*-----------------------------------*
+*	jogo : dark drifts          *
+*                                   *
+*  desenvolvedores:Anderson Araujo  *
+*	       	   Hiarley Farias   *
+*  08/06/2014                       *
+*-----------------------------------*
+
+o executavel esta presente na pasta do jogo,
+para jogar basta apenas executalo e depois jogar.

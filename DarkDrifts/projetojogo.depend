@@ -1,0 +1,1518 @@
+# depslib dependency file v1.0
+1400607765 source:c:\users\anderson araujo\desktop\projetojogo\inicia.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1400594510 c:\users\anderson araujo\desktop\projetojogo\inicia.h
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1400594656 source:c:\users\anderson araujo\desktop\projetojogo\main.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+
+1376156342 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1400620874 source:c:\users\anderson araujo\desktop\projetojogo\opcoes.cpp
+
+1401391079 source:c:\users\anderson araujo\desktop\projetojogo - cópia\main.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"Opcoes.h"
+
+1400594510 c:\users\anderson araujo\desktop\projetojogo - cópia\inicia.h
+
+1401044330 source:c:\users\anderson araujo\desktop\projetojogo - cópia\textura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"Textura.h"
+
+1401545876 c:\users\anderson araujo\desktop\projetojogo - cópia\textura.h
+
+1402001353 source:c:\users\anderson araujo\desktop\projetojogo - cópia\inicia.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"SDL.h"
+	"SDL_image.h"
+	"Jogo.h"
+
+1400704572 c:\users\anderson araujo\desktop\projetojogo - cópia\opcoes.h
+	"SDL_image.h"
+
+1400765471 source:c:\users\anderson araujo\desktop\projetojogo - cópia\opcoes.cpp
+	<iostream>
+	<cstdio>
+	"SDL.h"
+	"SDL_image.h"
+	"Textura.h"
+	"Opcoes.h"
+
+1401990295 source:c:\users\anderson araujo\desktop\projetojogo - cópia\circulo.cpp
+	<cmath>
+	"Circulo.h"
+	<iostream>
+
+1401981154 c:\users\anderson araujo\desktop\projetojogo - cópia\circulo.h
+
+1401388022 source:c:\users\anderson araujo\desktop\projetojogo - cópia\ltimer.cpp
+	<sstream>
+	<stdio.h>
+	<string>
+	"LTimer.h"
+	<SDL_ttf.h>
+
+1401304690 c:\users\anderson araujo\desktop\projetojogo - cópia\ltimer.h
+	<sstream>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+
+1376156544 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402078985 source:c:\users\anderson araujo\desktop\projetojogo - cópia\jogo.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"Textura.h"
+	"Bola_Verde.h"
+	"Bola_Vermelha.h"
+	"Bola_Jogador.h"
+	"Bola_Roxa.h"
+	"Circulo.h"
+	"Jogo.h"
+
+1401574272 c:\users\anderson araujo\desktop\projetojogo - cópia\jogo.h
+
+1402078852 source:c:\users\anderson araujo\desktop\projetojogo - cópia\bola_verde.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Verde.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1402078804 c:\users\anderson araujo\desktop\projetojogo - cópia\bola_verde.h
+
+1376156426 c:\users\anderson araujo\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401990295 source:c:\users\anderson araujo\desktop\projetojogo - cópia\bola_vermelha.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Vermelha.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401899676 c:\users\anderson araujo\desktop\projetojogo - cópia\bola_vermelha.h
+
+1402007982 source:c:\users\anderson araujo\desktop\projetojogo - cópia\bola_roxa.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Roxa.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401901235 c:\users\anderson araujo\desktop\projetojogo - cópia\bola_roxa.h
+
+1401984598 source:c:\users\anderson araujo\desktop\projetojogo - cópia\bola_jogador.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Jogador.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401902818 c:\users\anderson araujo\desktop\projetojogo - cópia\bola_jogador.h
+
+1401995398 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_jogador.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Jogador.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 c:\users\hiarleyfarias\desktop\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401913618 c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_jogador.h
+
+1402018782 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_roxa.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Roxa.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401912034 c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_roxa.h
+
+1402089652 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_verde.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Verde.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1402089604 c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_verde.h
+
+1402001094 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_vermelha.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Vermelha.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401910476 c:\users\hiarleyfarias\desktop\projetojogo - cópia\bola_vermelha.h
+
+1402001094 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\circulo.cpp
+	<cmath>
+	"Circulo.h"
+	<iostream>
+
+1401991954 c:\users\hiarleyfarias\desktop\projetojogo - cópia\circulo.h
+
+1402088667 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\jogo.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"Textura.h"
+	"Bola_Verde.h"
+	"Bola_Vermelha.h"
+	"Bola_Jogador.h"
+	"Bola_Roxa.h"
+	"Circulo.h"
+	"Jogo.h"
+
+1401556676 c:\users\hiarleyfarias\desktop\projetojogo - cópia\textura.h
+
+1402088831 c:\users\hiarleyfarias\desktop\projetojogo - cópia\jogo.h
+
+1401398822 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\ltimer.cpp
+	<sstream>
+	<stdio.h>
+	<string>
+	"LTimer.h"
+	<SDL_ttf.h>
+
+1401315490 c:\users\hiarleyfarias\desktop\projetojogo - cópia\ltimer.h
+	<sstream>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+
+1402084622 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\main.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"Opcoes.h"
+
+1400605310 c:\users\hiarleyfarias\desktop\projetojogo - cópia\inicia.h
+
+1400715372 c:\users\hiarleyfarias\desktop\projetojogo - cópia\opcoes.h
+	"SDL_image.h"
+
+1400776270 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\opcoes.cpp
+	<iostream>
+	<cstdio>
+	"SDL.h"
+	"SDL_image.h"
+	"Textura.h"
+	"Opcoes.h"
+
+1401055130 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\textura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"Textura.h"
+
+1402088834 source:c:\users\hiarleyfarias\desktop\projetojogo - cópia\inicia.cpp
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<sstream>
+	"Textura.h"
+	"Inicia.h"
+	"Jogo.h"
+
+1376156544 c:\users\hiarleyfarias\downloads\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156426 c:\users\hiarleyfarias\downloads\sdl\sdl2_mixer-2.0.0\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401995398 source:f:\darkdrifts\bola_jogador.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Jogador.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253498 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 f:\sdl\sdl2-2.0.2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401913618 f:\darkdrifts\bola_jogador.h
+
+1402018782 source:f:\darkdrifts\bola_roxa.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Roxa.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401912034 f:\darkdrifts\bola_roxa.h
+
+1402001094 source:f:\darkdrifts\bola_vermelha.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Vermelha.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401910476 f:\darkdrifts\bola_vermelha.h
+
+1402001094 source:f:\darkdrifts\circulo.cpp
+	<cmath>
+	"Circulo.h"
+	<iostream>
+
+1401991954 f:\darkdrifts\circulo.h
+
+1402175371 source:f:\darkdrifts\inicia.cpp
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"Textura.h"
+	"Inicia.h"
+	"Jogo.h"
+
+1401556676 f:\darkdrifts\textura.h
+
+1402174491 f:\darkdrifts\inicia.h
+
+1402088831 f:\darkdrifts\jogo.h
+
+1401398822 source:f:\darkdrifts\ltimer.cpp
+	<sstream>
+	<stdio.h>
+	<string>
+	"LTimer.h"
+	<SDL_ttf.h>
+
+1401315490 f:\darkdrifts\ltimer.h
+	<sstream>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+
+1402174507 source:f:\darkdrifts\main.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"Opcoes.h"
+
+1400715372 f:\darkdrifts\opcoes.h
+	"SDL_image.h"
+
+1401055130 source:f:\darkdrifts\textura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"Textura.h"
+
+1402089652 source:f:\darkdrifts\bola_verde.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Verde.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1402089604 f:\darkdrifts\bola_verde.h
+
+1376156544 c:\users\hiarleyn\downloads\sdl\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402174882 source:f:\darkdrifts\jogo.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<SDL_ttf.h>
+	<stdio.h>
+	<sstream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"Textura.h"
+	"Bola_Verde.h"
+	"Bola_Vermelha.h"
+	"Bola_Jogador.h"
+	"Bola_Roxa.h"
+	"Circulo.h"
+	"Inicia.h"
+	"Jogo.h"
+	"LTextura.h"
+
+1376156426 c:\users\hiarleyn\downloads\sdl\sdl\sdl2_mixer-2.0.0\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402162755 f:\darkdrifts\ltextura.h
+
+1402162947 source:f:\darkdrifts\ltextura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"LTextura.h"
+	<SDL_ttf.h>
+
+1401995398 source:c:\users\anderson araujo\desktop\darkdrifts\bola_jogador.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Jogador.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401913618 c:\users\anderson araujo\desktop\darkdrifts\bola_jogador.h
+
+1402018782 source:c:\users\anderson araujo\desktop\darkdrifts\bola_roxa.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Roxa.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401912034 c:\users\anderson araujo\desktop\darkdrifts\bola_roxa.h
+
+1402089652 source:c:\users\anderson araujo\desktop\darkdrifts\bola_verde.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Verde.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1402089604 c:\users\anderson araujo\desktop\darkdrifts\bola_verde.h
+
+1402001094 source:c:\users\anderson araujo\desktop\darkdrifts\bola_vermelha.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"Bola_Vermelha.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1401910476 c:\users\anderson araujo\desktop\darkdrifts\bola_vermelha.h
+
+1402001094 source:c:\users\anderson araujo\desktop\darkdrifts\circulo.cpp
+	<cmath>
+	"Circulo.h"
+	<iostream>
+
+1401991954 c:\users\anderson araujo\desktop\darkdrifts\circulo.h
+
+1402177344 source:c:\users\anderson araujo\desktop\darkdrifts\inicia.cpp
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"Textura.h"
+	"Inicia.h"
+	"Jogo.h"
+
+1401556676 c:\users\anderson araujo\desktop\darkdrifts\textura.h
+
+1402174491 c:\users\anderson araujo\desktop\darkdrifts\inicia.h
+
+1402088831 c:\users\anderson araujo\desktop\darkdrifts\jogo.h
+
+1402162947 source:c:\users\anderson araujo\desktop\darkdrifts\ltextura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"LTextura.h"
+	<SDL_ttf.h>
+
+1402162755 c:\users\anderson araujo\desktop\darkdrifts\ltextura.h
+
+1401398822 source:c:\users\anderson araujo\desktop\darkdrifts\ltimer.cpp
+	<sstream>
+	<stdio.h>
+	<string>
+	"LTimer.h"
+	<SDL_ttf.h>
+
+1401315490 c:\users\anderson araujo\desktop\darkdrifts\ltimer.h
+	<sstream>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+
+1402174507 source:c:\users\anderson araujo\desktop\darkdrifts\main.cpp
+	<iostream>
+	<cstdio>
+	"Inicia.h"
+	"Opcoes.h"
+
+1400715372 c:\users\anderson araujo\desktop\darkdrifts\opcoes.h
+	"SDL_image.h"
+
+1401055130 source:c:\users\anderson araujo\desktop\darkdrifts\textura.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<string>
+	"Textura.h"
+
+1402178879 source:c:\users\anderson araujo\desktop\darkdrifts\jogo.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<SDL_ttf.h>
+	<stdio.h>
+	<sstream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"Textura.h"
+	"Bola_Verde.h"
+	"Bola_Vermelha.h"
+	"Bola_Jogador.h"
+	"Bola_Roxa.h"
+	"Circulo.h"
+	"Inicia.h"
+	"Jogo.h"
+	"LTextura.h"
+
